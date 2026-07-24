@@ -2090,6 +2090,20 @@
       "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/math-olympiad"
     },
     {
+      "name": "mattpocock-skills",
+      "description": "Matt Pocock's agent skills for real engineering — grilling, spec/ticket flows, TDD, code review, domain modelling and more. Plug-and-play, not vibe coding.",
+      "author": {
+        "name": "Matt Pocock"
+      },
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mattpocock/skills.git",
+        "sha": "ed37663cc5fbef691ddfecd080dff42f7e7e350d"
+      },
+      "homepage": "https://github.com/mattpocock/skills"
+    },
+    {
       "name": "mcp-apps",
       "description": "Skills for creating MCP Apps with the MCP Apps SDK",
       "author": {

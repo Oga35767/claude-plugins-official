@@ -65,7 +65,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/SalesforceAIResearch/agentforce-adlc.git",
-        "sha": "f2433e68c8213f3eee0358093552ddc4de40602f"
+        "sha": "74e7c25b9b0141b57f1c04300b15e7b3ff139647"
       },
       "homepage": "https://github.com/SalesforceAIResearch/agentforce-adlc"
     },
@@ -238,7 +238,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/apollographql/skills.git",
-        "sha": "98c99fdf95fa2108786786d7f17d06868be3ebf9"
+        "sha": "3466193ed52d61ae51d48582b57a95575ae384e2"
       },
       "homepage": "https://www.apollographql.com"
     },
@@ -461,7 +461,7 @@
         "url": "https://github.com/awslabs/agent-plugins.git",
         "path": "plugins/aws-transform",
         "ref": "main",
-        "sha": "fe6b948e86dc8f15fe4c3095d13f461d0f4666f1"
+        "sha": "089861a4596343c2b8135cc4f7cc68655a081864"
       },
       "homepage": "https://github.com/awslabs/agent-plugins"
     },
@@ -658,7 +658,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "7f18fbaa9321fa377ede3b65a6791b3e458627d2"
+        "sha": "0ee7645485815d49458449b44047cf431a71f456"
       },
       "homepage": "https://carta.com"
     },
@@ -690,7 +690,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "839c97f67d208d66dd0b5992d7b9ee3b3e7be93c"
+        "sha": "0ee7645485815d49458449b44047cf431a71f456"
       },
       "homepage": "https://carta.com"
     },
@@ -915,7 +915,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cloudflare/skills.git",
-        "sha": "70215303d44a81a0db3219428f4825b604fc6061"
+        "sha": "30553f89ae1ef1e3c2917cd09d72dac992bb4e9a"
       },
       "description": "Skills for the Cloudflare developer platform: Workers, Durable Objects, Agents SDK, MCP servers, Wrangler CLI, and web performance.",
       "category": "deployment",
@@ -1166,7 +1166,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gemini-cli-extensions/data-agent-kit-starter-pack.git",
-        "sha": "b5d4964a1fa82ca2f67faa16ee808265aa3a0cb6"
+        "sha": "c6607d437af4721e9e3fd4c1ed17929a493e879f"
       },
       "homepage": "https://github.com/gemini-cli-extensions/data-agent-kit-starter-pack"
     },
@@ -1205,7 +1205,7 @@
         "url": "https://github.com/databricks/databricks-agent-skills.git",
         "path": "plugins/databricks/claude",
         "ref": "main",
-        "sha": "3d79814688e28765db0153eddcf6ec74972c75b4"
+        "sha": "fe11006e356b6d995bb4aa359d428c61908914d3"
       },
       "homepage": "https://developers.databricks.com/"
     },
@@ -1500,7 +1500,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gemini-cli-extensions/firestore-native.git",
-        "sha": "081f1addde0ca821e0f761a8c4b1f96a12fa452c"
+        "sha": "dfe84c0d5711f2ada600ae2731ae274eee4703bb"
       },
       "homepage": "https://github.com/gemini-cli-extensions/firestore-native"
     },
@@ -1710,7 +1710,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/huggingface/skills.git",
-        "sha": "86cdeee824b73e504198b6005bb113552cdfa7ba"
+        "sha": "87f9ee5b670a630b022809a8742606c6da21812c"
       },
       "homepage": "https://github.com/huggingface/skills.git"
     },
@@ -1738,7 +1738,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/heygen-com/hyperframes.git",
-        "sha": "9d4c3493d0511e1bb2755fe2b9ef84972a95a5cd"
+        "sha": "1f9a8f0985008d67ea805141043af9428ff4f55e"
       },
       "homepage": "https://hyperframes.heygen.com"
     },
@@ -2235,7 +2235,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/mlflow/skills.git",
-        "sha": "c33bb3d303a2c6113bbaed6dbfe756e88e80f1df"
+        "sha": "c8228eef0da8d18ac34aa632e1276ce7da985363"
       },
       "homepage": "https://mlflow.org/"
     },
@@ -2277,7 +2277,7 @@
         "url": "https://github.com/neondatabase/agent-skills.git",
         "path": "plugins/neon-postgres",
         "ref": "main",
-        "sha": "6ca24e462031daf8268471b2bc6bcce1516847da"
+        "sha": "7de230f8ed6781fd1bc5f766c40be4d39ae4d0b0"
       },
       "homepage": "https://github.com/neondatabase/agent-skills/tree/main/plugins/neon-postgres"
     },
@@ -2659,7 +2659,7 @@
         "url": "https://github.com/pydantic/skills.git",
         "path": "plugins/ai",
         "ref": "main",
-        "sha": "6cb1aff3458fcc180ca343dca0fa25d460d7cab0"
+        "sha": "6add4dc7ecde63a059103cf2a65444d04db25cc4"
       },
       "homepage": "https://github.com/pydantic/skills/tree/main/plugins/ai"
     },
@@ -2810,7 +2810,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Digital-Process-Tools/claude-remember.git",
-        "sha": "7db78669853c2443c0bc841061e7ceb9f16d16cb"
+        "sha": "6c1d6747e049645156995e1b163bc7d7a0dc0d7f"
       },
       "homepage": "https://github.com/Digital-Process-Tools/claude-remember"
     },
@@ -3122,7 +3122,7 @@
         "url": "https://github.com/ServiceNow/sdk.git",
         "path": "providers/claude/plugin",
         "ref": "master",
-        "sha": "d69bd6395d064c8f3d659f4dd373abf0f17a3b37"
+        "sha": "f3e0379242b29e0039e1625d637aa1c246acbe12"
       },
       "homepage": "https://servicenow.github.io/sdk/"
     },

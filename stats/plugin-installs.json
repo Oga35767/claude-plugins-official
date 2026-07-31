@@ -1,745 +1,765 @@
 {
-  "generated_at": "2026-07-24T06:00:23.496973+00:00",
+  "generated_at": "2026-07-31T06:00:57.632081+00:00",
   "description": "Claude Code plugin installation statistics (all-time)",
   "metrics": {
-    "total_plugins": 561
+    "total_plugins": 566
   },
   "plugins": [
     {
       "plugin": "frontend-design@claude-plugins-official",
-      "unique_installs": 1110438
+      "unique_installs": 1134112
     },
     {
       "plugin": "superpowers@claude-plugins-official",
-      "unique_installs": 987572
+      "unique_installs": 1009371
     },
     {
       "plugin": "code-review@claude-plugins-official",
-      "unique_installs": 430450
+      "unique_installs": 438525
     },
     {
       "plugin": "context7@claude-plugins-official",
-      "unique_installs": 412076
+      "unique_installs": 417801
     },
     {
       "plugin": "skill-creator@claude-plugins-official",
-      "unique_installs": 376492
+      "unique_installs": 385083
     },
     {
       "plugin": "code-simplifier@claude-plugins-official",
-      "unique_installs": 341666
-    },
-    {
-      "plugin": "github@claude-plugins-official",
-      "unique_installs": 314133
+      "unique_installs": 346763
     },
     {
       "plugin": "playwright@claude-plugins-official",
-      "unique_installs": 313808
+      "unique_installs": 319887
+    },
+    {
+      "plugin": "github@claude-plugins-official",
+      "unique_installs": 319381
     },
     {
       "plugin": "claude-md-management@claude-plugins-official",
-      "unique_installs": 282075
+      "unique_installs": 287247
     },
     {
       "plugin": "feature-dev@claude-plugins-official",
-      "unique_installs": 252869
+      "unique_installs": 256017
     },
     {
       "plugin": "security-guidance@claude-plugins-official",
-      "unique_installs": 235822
+      "unique_installs": 241800
     },
     {
       "plugin": "vercel@claude-plugins-official",
-      "unique_installs": 219372
+      "unique_installs": 227688
     },
     {
       "plugin": "typescript-lsp@claude-plugins-official",
-      "unique_installs": 209264
+      "unique_installs": 212522
     },
     {
       "plugin": "ralph-loop@claude-plugins-official",
-      "unique_installs": 194979
+      "unique_installs": 196527
     },
     {
       "plugin": "claude-code-setup@claude-plugins-official",
-      "unique_installs": 191507
+      "unique_installs": 195067
     },
     {
       "plugin": "commit-commands@claude-plugins-official",
-      "unique_installs": 169125
+      "unique_installs": 171244
     },
     {
       "plugin": "figma@claude-plugins-official",
-      "unique_installs": 164735
+      "unique_installs": 167556
     },
     {
       "plugin": "supabase@claude-plugins-official",
-      "unique_installs": 117179
+      "unique_installs": 118617
     },
     {
       "plugin": "pr-review-toolkit@claude-plugins-official",
-      "unique_installs": 113300
+      "unique_installs": 114856
     },
     {
       "plugin": "pyright-lsp@claude-plugins-official",
-      "unique_installs": 108029
+      "unique_installs": 109778
     },
     {
       "plugin": "chrome-devtools-mcp@claude-plugins-official",
-      "unique_installs": 99626
+      "unique_installs": 102569
     },
     {
       "plugin": "telegram@claude-plugins-official",
-      "unique_installs": 98828
+      "unique_installs": 100332
     },
     {
       "plugin": "atlassian@claude-plugins-official",
-      "unique_installs": 90605
+      "unique_installs": 92289
     },
     {
       "plugin": "slack@claude-plugins-official",
-      "unique_installs": 89997
+      "unique_installs": 92287
     },
     {
       "plugin": "serena@claude-plugins-official",
-      "unique_installs": 88505
+      "unique_installs": 89147
     },
     {
       "plugin": "plugin-dev@claude-plugins-official",
-      "unique_installs": 66811
+      "unique_installs": 67663
     },
     {
       "plugin": "agent-sdk-dev@claude-plugins-official",
-      "unique_installs": 66007
+      "unique_installs": 66631
     },
     {
       "plugin": "explanatory-output-style@claude-plugins-official",
-      "unique_installs": 63688
+      "unique_installs": 64377
     },
     {
       "plugin": "playground@claude-plugins-official",
-      "unique_installs": 63162
-    },
-    {
-      "plugin": "hookify@claude-plugins-official",
-      "unique_installs": 59624
+      "unique_installs": 64198
     },
     {
       "plugin": "stripe@claude-plugins-official",
-      "unique_installs": 58690
+      "unique_installs": 61066
+    },
+    {
+      "plugin": "hookify@claude-plugins-official",
+      "unique_installs": 60376
     },
     {
       "plugin": "greptile@claude-plugins-official",
-      "unique_installs": 56096
-    },
-    {
-      "plugin": "Notion@claude-plugins-official",
-      "unique_installs": 50118
+      "unique_installs": 56611
     },
     {
       "plugin": "remember@claude-plugins-official",
-      "unique_installs": 49814
+      "unique_installs": 51442
+    },
+    {
+      "plugin": "Notion@claude-plugins-official",
+      "unique_installs": 50760
     },
     {
       "plugin": "linear@claude-plugins-official",
-      "unique_installs": 47273
+      "unique_installs": 48038
     },
     {
       "plugin": "csharp-lsp@claude-plugins-official",
-      "unique_installs": 43074
+      "unique_installs": 43741
     },
     {
       "plugin": "learning-output-style@claude-plugins-official",
-      "unique_installs": 41792
+      "unique_installs": 42241
     },
     {
       "plugin": "gopls-lsp@claude-plugins-official",
-      "unique_installs": 41095
+      "unique_installs": 41639
     },
     {
       "plugin": "gitlab@claude-plugins-official",
-      "unique_installs": 40164
+      "unique_installs": 40805
     },
     {
       "plugin": "firecrawl@claude-plugins-official",
-      "unique_installs": 38560
+      "unique_installs": 39279
     },
     {
       "plugin": "sentry@claude-plugins-official",
-      "unique_installs": 38198
+      "unique_installs": 38810
     },
     {
       "plugin": "rust-analyzer-lsp@claude-plugins-official",
-      "unique_installs": 35438
+      "unique_installs": 35933
     },
     {
       "plugin": "huggingface-skills@claude-plugins-official",
-      "unique_installs": 34088
-    },
-    {
-      "plugin": "jdtls-lsp@claude-plugins-official",
-      "unique_installs": 33275
+      "unique_installs": 34575
     },
     {
       "plugin": "mcp-server-dev@claude-plugins-official",
-      "unique_installs": 32654
+      "unique_installs": 33959
+    },
+    {
+      "plugin": "jdtls-lsp@claude-plugins-official",
+      "unique_installs": 33734
     },
     {
       "plugin": "php-lsp@claude-plugins-official",
-      "unique_installs": 32396
+      "unique_installs": 32856
     },
     {
       "plugin": "coderabbit@claude-plugins-official",
-      "unique_installs": 31875
+      "unique_installs": 32361
     },
     {
       "plugin": "discord@claude-plugins-official",
-      "unique_installs": 31749
+      "unique_installs": 32323
     },
     {
       "plugin": "clangd-lsp@claude-plugins-official",
-      "unique_installs": 29418
+      "unique_installs": 29851
     },
     {
       "plugin": "ralph-wiggum@claude-plugins-official",
-      "unique_installs": 27291
+      "unique_installs": 27292
     },
     {
       "plugin": "microsoft-docs@claude-plugins-official",
-      "unique_installs": 26051
+      "unique_installs": 26765
     },
     {
       "plugin": "firebase@claude-plugins-official",
-      "unique_installs": 25816
+      "unique_installs": 26168
     },
     {
       "plugin": "kotlin-lsp@claude-plugins-official",
-      "unique_installs": 23751
+      "unique_installs": 24127
     },
     {
       "plugin": "swift-lsp@claude-plugins-official",
-      "unique_installs": 23070
+      "unique_installs": 23378
     },
     {
       "plugin": "laravel-boost@claude-plugins-official",
-      "unique_installs": 21710
+      "unique_installs": 21924
     },
     {
       "plugin": "postman@claude-plugins-official",
-      "unique_installs": 19957
+      "unique_installs": 20482
     },
     {
       "plugin": "semgrep@claude-plugins-official",
-      "unique_installs": 19194
-    },
-    {
-      "plugin": "atomic-agents@claude-plugins-official",
-      "unique_installs": 17077
+      "unique_installs": 19548
     },
     {
       "plugin": "cloudflare@claude-plugins-official",
-      "unique_installs": 16795
+      "unique_installs": 17653
+    },
+    {
+      "plugin": "atomic-agents@claude-plugins-official",
+      "unique_installs": 17460
     },
     {
       "plugin": "data-engineering@claude-plugins-official",
-      "unique_installs": 16393
-    },
-    {
-      "plugin": "imessage@claude-plugins-official",
-      "unique_installs": 15449
-    },
-    {
-      "plugin": "lua-lsp@claude-plugins-official",
-      "unique_installs": 15420
+      "unique_installs": 16934
     },
     {
       "plugin": "expo@claude-plugins-official",
-      "unique_installs": 15049
+      "unique_installs": 15861
+    },
+    {
+      "plugin": "imessage@claude-plugins-official",
+      "unique_installs": 15728
     },
     {
       "plugin": "datadog@claude-plugins-official",
-      "unique_installs": 14409
+      "unique_installs": 15678
+    },
+    {
+      "plugin": "lua-lsp@claude-plugins-official",
+      "unique_installs": 15595
     },
     {
       "plugin": "sourcegraph@claude-plugins-official",
-      "unique_installs": 13227
+      "unique_installs": 13515
     },
     {
       "plugin": "posthog@claude-plugins-official",
-      "unique_installs": 13207
+      "unique_installs": 13453
     },
     {
       "plugin": "circleback@claude-plugins-official",
-      "unique_installs": 12297
+      "unique_installs": 12396
     },
     {
       "plugin": "qodo-skills@claude-plugins-official",
-      "unique_installs": 11759
+      "unique_installs": 11772
     },
     {
       "plugin": "session-report@claude-plugins-official",
-      "unique_installs": 11256
+      "unique_installs": 11694
     },
     {
       "plugin": "asana@claude-plugins-official",
-      "unique_installs": 10665
-    },
-    {
-      "plugin": "pinecone@claude-plugins-official",
-      "unique_installs": 10232
+      "unique_installs": 10796
     },
     {
       "plugin": "deploy-on-aws@claude-plugins-official",
-      "unique_installs": 10213
+      "unique_installs": 10426
+    },
+    {
+      "plugin": "pinecone@claude-plugins-official",
+      "unique_installs": 10334
     },
     {
       "plugin": "terraform@claude-plugins-official",
-      "unique_installs": 9985
+      "unique_installs": 10280
     },
     {
       "plugin": "ruby-lsp@claude-plugins-official",
-      "unique_installs": 8760
+      "unique_installs": 8903
     },
     {
       "plugin": "aws-serverless@claude-plugins-official",
-      "unique_installs": 8558
+      "unique_installs": 8742
     },
     {
       "plugin": "mongodb@claude-plugins-official",
-      "unique_installs": 8447
+      "unique_installs": 8702
+    },
+    {
+      "plugin": "claude-security@claude-plugins-official",
+      "unique_installs": 8580
     },
     {
       "plugin": "fakechat@claude-plugins-official",
-      "unique_installs": 7764
+      "unique_installs": 7896
     },
     {
       "plugin": "prisma@claude-plugins-official",
-      "unique_installs": 7682
+      "unique_installs": 7867
     },
     {
       "plugin": "data@claude-plugins-official",
-      "unique_installs": 7514
+      "unique_installs": 7655
     },
     {
       "plugin": "sonatype-guide@claude-plugins-official",
-      "unique_installs": 7418
+      "unique_installs": 7484
     },
     {
       "plugin": "azure@claude-plugins-official",
-      "unique_installs": 7031
+      "unique_installs": 7462
     },
     {
       "plugin": "aikido@claude-plugins-official",
-      "unique_installs": 7030
-    },
-    {
-      "plugin": "mintlify@claude-plugins-official",
-      "unique_installs": 6813
-    },
-    {
-      "plugin": "railway@claude-plugins-official",
-      "unique_installs": 6669
+      "unique_installs": 7322
     },
     {
       "plugin": "desktop-commander@claude-plugins-official",
-      "unique_installs": 6627
+      "unique_installs": 7023
     },
     {
-      "plugin": "wordpress.com@claude-plugins-official",
-      "unique_installs": 6611
+      "plugin": "mintlify@claude-plugins-official",
+      "unique_installs": 6930
     },
     {
-      "plugin": "searchfit-seo@claude-plugins-official",
-      "unique_installs": 6214
-    },
-    {
-      "plugin": "sonarqube@claude-plugins-official",
-      "unique_installs": 6131
+      "plugin": "railway@claude-plugins-official",
+      "unique_installs": 6884
     },
     {
       "plugin": "aws-core@claude-plugins-official",
-      "unique_installs": 5876
+      "unique_installs": 6716
+    },
+    {
+      "plugin": "wordpress.com@claude-plugins-official",
+      "unique_installs": 6616
+    },
+    {
+      "plugin": "sonarqube@claude-plugins-official",
+      "unique_installs": 6433
+    },
+    {
+      "plugin": "searchfit-seo@claude-plugins-official",
+      "unique_installs": 6216
     },
     {
       "plugin": "code-modernization@claude-plugins-official",
-      "unique_installs": 5520
+      "unique_installs": 5860
     },
     {
       "plugin": "product-tracking-skills@claude-plugins-official",
-      "unique_installs": 5447
+      "unique_installs": 5448
     },
     {
       "plugin": "shopify-ai-toolkit@claude-plugins-official",
-      "unique_installs": 5139
-    },
-    {
-      "plugin": "pydantic-ai@claude-plugins-official",
-      "unique_installs": 5064
+      "unique_installs": 5358
     },
     {
       "plugin": "exa@claude-plugins-official",
-      "unique_installs": 4934
+      "unique_installs": 5255
+    },
+    {
+      "plugin": "pydantic-ai@claude-plugins-official",
+      "unique_installs": 5251
     },
     {
       "plugin": "pagerduty@claude-plugins-official",
-      "unique_installs": 4902
-    },
-    {
-      "plugin": "ai-plugins@claude-plugins-official",
-      "unique_installs": 4492
-    },
-    {
-      "plugin": "netlify-skills@claude-plugins-official",
-      "unique_installs": 4464
+      "unique_installs": 4985
     },
     {
       "plugin": "auth0@claude-plugins-official",
-      "unique_installs": 4380
+      "unique_installs": 4680
+    },
+    {
+      "plugin": "ai-plugins@claude-plugins-official",
+      "unique_installs": 4627
+    },
+    {
+      "plugin": "netlify-skills@claude-plugins-official",
+      "unique_installs": 4609
     },
     {
       "plugin": "liquid-skills@claude-plugins-official",
-      "unique_installs": 4225
+      "unique_installs": 4475
     },
     {
       "plugin": "legalzoom@claude-plugins-official",
-      "unique_installs": 4201
-    },
-    {
-      "plugin": "neon@claude-plugins-official",
-      "unique_installs": 3910
+      "unique_installs": 4371
     },
     {
       "plugin": "miro@claude-plugins-official",
-      "unique_installs": 3822
+      "unique_installs": 4092
+    },
+    {
+      "plugin": "neon@claude-plugins-official",
+      "unique_installs": 4049
     },
     {
       "plugin": "goodmem@claude-plugins-official",
       "unique_installs": 3638
     },
     {
-      "plugin": "shopify@claude-plugins-official",
-      "unique_installs": 3569
-    },
-    {
-      "plugin": "optibot@claude-plugins-official",
-      "unique_installs": 3481
-    },
-    {
       "plugin": "aws-dev-toolkit@claude-plugins-official",
-      "unique_installs": 3412
+      "unique_installs": 3589
     },
     {
-      "plugin": "wix@claude-plugins-official",
-      "unique_installs": 3362
+      "plugin": "shopify@claude-plugins-official",
+      "unique_installs": 3577
     },
     {
       "plugin": "resend@claude-plugins-official",
-      "unique_installs": 3344
+      "unique_installs": 3577
+    },
+    {
+      "plugin": "optibot@claude-plugins-official",
+      "unique_installs": 3482
+    },
+    {
+      "plugin": "wix@claude-plugins-official",
+      "unique_installs": 3442
     },
     {
       "plugin": "postiz@claude-plugins-official",
-      "unique_installs": 3326
+      "unique_installs": 3412
     },
     {
       "plugin": "math-olympiad@claude-plugins-official",
-      "unique_installs": 3294
+      "unique_installs": 3392
     },
     {
       "plugin": "revenuecat@claude-plugins-official",
-      "unique_installs": 3284
+      "unique_installs": 3381
     },
     {
       "plugin": "amazon-location-service@claude-plugins-official",
-      "unique_installs": 3258
+      "unique_installs": 3328
     },
     {
       "plugin": "zapier@claude-plugins-official",
-      "unique_installs": 3217
+      "unique_installs": 3302
     },
     {
       "plugin": "zoom-plugin@claude-plugins-official",
-      "unique_installs": 3162
-    },
-    {
-      "plugin": "rc@claude-plugins-official",
-      "unique_installs": 3065
-    },
-    {
-      "plugin": "fastly-agent-toolkit@claude-plugins-official",
-      "unique_installs": 3063
+      "unique_installs": 3246
     },
     {
       "plugin": "brightdata-plugin@claude-plugins-official",
-      "unique_installs": 3018
+      "unique_installs": 3155
     },
     {
-      "plugin": "adspirer-ads-agent@claude-plugins-official",
-      "unique_installs": 2949
+      "plugin": "fastly-agent-toolkit@claude-plugins-official",
+      "unique_installs": 3141
+    },
+    {
+      "plugin": "rc@claude-plugins-official",
+      "unique_installs": 3136
     },
     {
       "plugin": "intercom@claude-plugins-official",
-      "unique_installs": 2874
+      "unique_installs": 2952
     },
     {
-      "plugin": "nimble@claude-plugins-official",
-      "unique_installs": 2791
+      "plugin": "adspirer-ads-agent@claude-plugins-official",
+      "unique_installs": 2950
     },
     {
       "plugin": "adobe-for-creativity@claude-plugins-official",
-      "unique_installs": 2771
+      "unique_installs": 2945
+    },
+    {
+      "plugin": "redis-development@claude-plugins-official",
+      "unique_installs": 2878
+    },
+    {
+      "plugin": "nimble@claude-plugins-official",
+      "unique_installs": 2851
     },
     {
       "plugin": "claude-opus-4-5-migration@claude-plugins-official",
       "unique_installs": 2714
     },
     {
-      "plugin": "redis-development@claude-plugins-official",
-      "unique_installs": 2657
+      "plugin": "dataverse@claude-plugins-official",
+      "unique_installs": 2707
     },
     {
       "plugin": "fiftyone@claude-plugins-official",
-      "unique_installs": 2625
+      "unique_installs": 2693
     },
     {
       "plugin": "planetscale@claude-plugins-official",
-      "unique_installs": 2579
-    },
-    {
-      "plugin": "dataverse@claude-plugins-official",
-      "unique_installs": 2561
+      "unique_installs": 2633
     },
     {
       "plugin": "qt-development-skills@claude-plugins-official",
-      "unique_installs": 2502
+      "unique_installs": 2629
     },
     {
       "plugin": "vanta-mcp-plugin@claude-plugins-official",
-      "unique_installs": 2417
-    },
-    {
-      "plugin": "cloudinary@claude-plugins-official",
-      "unique_installs": 2390
+      "unique_installs": 2572
     },
     {
       "plugin": "cloud-sql-postgresql@claude-plugins-official",
-      "unique_installs": 2386
+      "unique_installs": 2520
     },
     {
       "plugin": "databases-on-aws@claude-plugins-official",
-      "unique_installs": 2375
+      "unique_installs": 2495
+    },
+    {
+      "plugin": "cloudinary@claude-plugins-official",
+      "unique_installs": 2462
     },
     {
       "plugin": "sumup@claude-plugins-official",
-      "unique_installs": 2337
-    },
-    {
-      "plugin": "zoominfo@claude-plugins-official",
-      "unique_installs": 2309
+      "unique_installs": 2389
     },
     {
       "plugin": "migration-to-aws@claude-plugins-official",
-      "unique_installs": 2297
+      "unique_installs": 2370
     },
     {
-      "plugin": "astronomer-data-agents@claude-plugins-official",
-      "unique_installs": 2244
-    },
-    {
-      "plugin": "amplitude@claude-plugins-official",
-      "unique_installs": 2236
-    },
-    {
-      "plugin": "data-agent-kit-starter-pack@claude-plugins-official",
-      "unique_installs": 2203
+      "plugin": "zoominfo@claude-plugins-official",
+      "unique_installs": 2363
     },
     {
       "plugin": "aws-agents@claude-plugins-official",
-      "unique_installs": 2172
+      "unique_installs": 2359
+    },
+    {
+      "plugin": "amplitude@claude-plugins-official",
+      "unique_installs": 2318
+    },
+    {
+      "plugin": "astronomer-data-agents@claude-plugins-official",
+      "unique_installs": 2311
+    },
+    {
+      "plugin": "data-agent-kit-starter-pack@claude-plugins-official",
+      "unique_installs": 2308
     },
     {
       "plugin": "42crunch-api-security-testing@claude-plugins-official",
-      "unique_installs": 2134
-    },
-    {
-      "plugin": "cockroachdb@claude-plugins-official",
-      "unique_installs": 2078
+      "unique_installs": 2298
     },
     {
       "plugin": "sanity@claude-plugins-official",
-      "unique_installs": 2064
+      "unique_installs": 2165
     },
     {
-      "plugin": "ui5-typescript-conversion@claude-plugins-official",
-      "unique_installs": 2017
-    },
-    {
-      "plugin": "elixir-ls-lsp@claude-plugins-official",
-      "unique_installs": 2013
-    },
-    {
-      "plugin": "nightvision@claude-plugins-official",
-      "unique_installs": 2010
+      "plugin": "cockroachdb@claude-plugins-official",
+      "unique_installs": 2128
     },
     {
       "plugin": "hyperframes@claude-plugins-official",
-      "unique_installs": 1927
+      "unique_installs": 2119
     },
     {
-      "plugin": "atlan@claude-plugins-official",
-      "unique_installs": 1926
+      "plugin": "ui5-typescript-conversion@claude-plugins-official",
+      "unique_installs": 2089
     },
     {
       "plugin": "mcp-apps@claude-plugins-official",
-      "unique_installs": 1922
+      "unique_installs": 2088
+    },
+    {
+      "plugin": "nightvision@claude-plugins-official",
+      "unique_installs": 2064
+    },
+    {
+      "plugin": "elixir-ls-lsp@claude-plugins-official",
+      "unique_installs": 2015
+    },
+    {
+      "plugin": "atlan@claude-plugins-official",
+      "unique_installs": 1978
     },
     {
       "plugin": "sentry-cli@claude-plugins-official",
-      "unique_installs": 1816
+      "unique_installs": 1970
     },
     {
       "plugin": "bigdata-com@claude-plugins-official",
-      "unique_installs": 1801
+      "unique_installs": 1872
     },
     {
       "plugin": "ui5@claude-plugins-official",
-      "unique_installs": 1776
+      "unique_installs": 1853
     },
     {
       "plugin": "liquid-lsp@claude-plugins-official",
-      "unique_installs": 1767
-    },
-    {
-      "plugin": "base44@claude-plugins-official",
-      "unique_installs": 1762
+      "unique_installs": 1847
     },
     {
       "plugin": "aws-amplify@claude-plugins-official",
-      "unique_installs": 1755
+      "unique_installs": 1829
+    },
+    {
+      "plugin": "base44@claude-plugins-official",
+      "unique_installs": 1826
     },
     {
       "plugin": "snowflake-cortex-code@claude-plugins-official",
-      "unique_installs": 1711
+      "unique_installs": 1784
+    },
+    {
+      "plugin": "twilio-developer-kit@claude-plugins-official",
+      "unique_installs": 1776
+    },
+    {
+      "plugin": "windsor-ai@claude-plugins-official",
+      "unique_installs": 1773
+    },
+    {
+      "plugin": "aws-data-analytics@claude-plugins-official",
+      "unique_installs": 1750
+    },
+    {
+      "plugin": "mattpocock-skills@claude-plugins-official",
+      "unique_installs": 1745
     },
     {
       "plugin": "sanity-plugin@claude-plugins-official",
       "unique_installs": 1696
     },
     {
-      "plugin": "twilio-developer-kit@claude-plugins-official",
-      "unique_installs": 1691
+      "plugin": "nvidia-skills@claude-plugins-official",
+      "unique_installs": 1654
     },
     {
-      "plugin": "windsor-ai@claude-plugins-official",
-      "unique_installs": 1690
-    },
-    {
-      "plugin": "aws-data-analytics@claude-plugins-official",
-      "unique_installs": 1615
+      "plugin": "azure-cosmos-db-assistant@claude-plugins-official",
+      "unique_installs": 1644
     },
     {
       "plugin": "ai-firstify@claude-plugins-official",
       "unique_installs": 1604
     },
     {
-      "plugin": "azure-cosmos-db-assistant@claude-plugins-official",
-      "unique_installs": 1585
-    },
-    {
       "plugin": "youdotcom-agent-skills@claude-plugins-official",
-      "unique_installs": 1530
-    },
-    {
-      "plugin": "nvidia-skills@claude-plugins-official",
-      "unique_installs": 1480
+      "unique_installs": 1593
     },
     {
       "plugin": "qdrant-skills@claude-plugins-official",
-      "unique_installs": 1452
-    },
-    {
-      "plugin": "sagemaker-ai@claude-plugins-official",
-      "unique_installs": 1419
+      "unique_installs": 1542
     },
     {
       "plugin": "mcp-tunnels@claude-plugins-official",
-      "unique_installs": 1415
+      "unique_installs": 1525
+    },
+    {
+      "plugin": "sagemaker-ai@claude-plugins-official",
+      "unique_installs": 1469
     },
     {
       "plugin": "apollo@claude-plugins-official",
-      "unique_installs": 1405
+      "unique_installs": 1462
+    },
+    {
+      "plugin": "box@claude-plugins-official",
+      "unique_installs": 1408
+    },
+    {
+      "plugin": "zscaler@claude-plugins-official",
+      "unique_installs": 1393
     },
     {
       "plugin": "opsera-devsecops@claude-plugins-official",
       "unique_installs": 1371
     },
     {
-      "plugin": "box@claude-plugins-official",
-      "unique_installs": 1360
+      "plugin": "convex@claude-plugins-official",
+      "unique_installs": 1365
     },
     {
-      "plugin": "zscaler@claude-plugins-official",
-      "unique_installs": 1354
+      "plugin": "airtable@claude-plugins-official",
+      "unique_installs": 1355
     },
     {
       "plugin": "followrabbit@claude-plugins-official",
       "unique_installs": 1313
     },
     {
-      "plugin": "airtable@claude-plugins-official",
-      "unique_installs": 1263
+      "plugin": "spotify-ads-api@claude-plugins-official",
+      "unique_installs": 1297
     },
     {
       "plugin": "cds-mcp@claude-plugins-official",
-      "unique_installs": 1259
-    },
-    {
-      "plugin": "spotify-ads-api@claude-plugins-official",
-      "unique_installs": 1253
+      "unique_installs": 1296
     },
     {
       "plugin": "datarobot-agent-skills@claude-plugins-official",
-      "unique_installs": 1218
+      "unique_installs": 1271
     },
     {
-      "plugin": "convex@claude-plugins-official",
-      "unique_installs": 1180
+      "plugin": "logfire@claude-plugins-official",
+      "unique_installs": 1199
+    },
+    {
+      "plugin": "duckdb-skills@claude-plugins-official",
+      "unique_installs": 1188
     },
     {
       "plugin": "sonarqube-agent-plugins@claude-plugins-official",
       "unique_installs": 1170
     },
     {
-      "plugin": "logfire@claude-plugins-official",
-      "unique_installs": 1139
-    },
-    {
-      "plugin": "duckdb-skills@claude-plugins-official",
-      "unique_installs": 1103
-    },
-    {
       "plugin": "agentforce-adlc@claude-plugins-official",
+      "unique_installs": 1150
+    },
+    {
+      "plugin": "clickhouse@claude-plugins-official",
+      "unique_installs": 1126
+    },
+    {
+      "plugin": "netsuite-suitecloud@claude-plugins-official",
+      "unique_installs": 1102
+    },
+    {
+      "plugin": "canva@claude-plugins-official",
       "unique_installs": 1094
+    },
+    {
+      "plugin": "quarkus-agent@claude-plugins-official",
+      "unique_installs": 1076
     },
     {
       "plugin": "flint@claude-plugins-official",
       "unique_installs": 1071
     },
     {
-      "plugin": "clickhouse@claude-plugins-official",
-      "unique_installs": 1061
-    },
-    {
-      "plugin": "netsuite-suitecloud@claude-plugins-official",
-      "unique_installs": 1056
+      "plugin": "lovable@claude-plugins-official",
+      "unique_installs": 1057
     },
     {
       "plugin": "voila-api@claude-plugins-official",
       "unique_installs": 1056
     },
     {
-      "plugin": "quarkus-agent@claude-plugins-official",
-      "unique_installs": 1036
+      "plugin": "project-artifact@claude-plugins-official",
+      "unique_installs": 1034
     },
     {
       "plugin": "firetiger@claude-plugins-official",
@@ -747,403 +767,411 @@
     },
     {
       "plugin": "servicenow-sdk@claude-plugins-official",
-      "unique_installs": 947
-    },
-    {
-      "plugin": "lovable@claude-plugins-official",
-      "unique_installs": 934
+      "unique_installs": 1028
     },
     {
       "plugin": "crowdstrike-falcon-foundry@claude-plugins-official",
-      "unique_installs": 920
-    },
-    {
-      "plugin": "project-artifact@claude-plugins-official",
-      "unique_installs": 912
-    },
-    {
-      "plugin": "claude-security@claude-plugins-official",
-      "unique_installs": 899
+      "unique_installs": 965
     },
     {
       "plugin": "dash0@claude-plugins-official",
-      "unique_installs": 899
+      "unique_installs": 955
+    },
+    {
+      "plugin": "browser-use@claude-plugins-official",
+      "unique_installs": 930
     },
     {
       "plugin": "oracle-ai-data-platform-workbench-spark-connectors@claude-plugins-official",
-      "unique_installs": 872
+      "unique_installs": 907
     },
     {
       "plugin": "alloydb@claude-plugins-official",
-      "unique_installs": 865
-    },
-    {
-      "plugin": "canva@claude-plugins-official",
-      "unique_installs": 863
+      "unique_installs": 903
     },
     {
       "plugin": "codspeed@claude-plugins-official",
-      "unique_installs": 846
+      "unique_installs": 902
     },
     {
       "plugin": "vibe-prospecting@claude-plugins-official",
-      "unique_installs": 840
+      "unique_installs": 902
     },
     {
       "plugin": "runway-api@claude-plugins-official",
-      "unique_installs": 811
+      "unique_installs": 874
+    },
+    {
+      "plugin": "aws-startup-advisor@claude-plugins-official",
+      "unique_installs": 873
+    },
+    {
+      "plugin": "unreal-engine-skills-for-claude-code@claude-plugins-official",
+      "unique_installs": 871
     },
     {
       "plugin": "mercadopago@claude-plugins-official",
-      "unique_installs": 805
+      "unique_installs": 849
+    },
+    {
+      "plugin": "mapbox@claude-plugins-official",
+      "unique_installs": 847
+    },
+    {
+      "plugin": "clickhouse-best-practices@claude-plugins-official",
+      "unique_installs": 840
+    },
+    {
+      "plugin": "grafana-mcp@claude-plugins-official",
+      "unique_installs": 821
     },
     {
       "plugin": "azure-skills@claude-plugins-official",
       "unique_installs": 803
     },
     {
-      "plugin": "mapbox@claude-plugins-official",
-      "unique_installs": 797
-    },
-    {
-      "plugin": "aws-startup-advisor@claude-plugins-official",
-      "unique_installs": 788
-    },
-    {
-      "plugin": "clickhouse-best-practices@claude-plugins-official",
-      "unique_installs": 783
+      "plugin": "apollo-skills@claude-plugins-official",
+      "unique_installs": 800
     },
     {
       "plugin": "outputai@claude-plugins-official",
-      "unique_installs": 752
-    },
-    {
-      "plugin": "apollo-skills@claude-plugins-official",
-      "unique_installs": 745
-    },
-    {
-      "plugin": "zilliz@claude-plugins-official",
-      "unique_installs": 740
-    },
-    {
-      "plugin": "sap-mdk-server@claude-plugins-official",
-      "unique_installs": 734
+      "unique_installs": 792
     },
     {
       "plugin": "forge-skills@claude-plugins-official",
-      "unique_installs": 732
+      "unique_installs": 779
+    },
+    {
+      "plugin": "zilliz@claude-plugins-official",
+      "unique_installs": 774
+    },
+    {
+      "plugin": "sap-mdk-server@claude-plugins-official",
+      "unique_installs": 765
     },
     {
       "plugin": "hunter@claude-plugins-official",
-      "unique_installs": 712
-    },
-    {
-      "plugin": "cwc-makers@claude-plugins-official",
-      "unique_installs": 700
+      "unique_installs": 758
     },
     {
       "plugin": "workos@claude-plugins-official",
-      "unique_installs": 694
+      "unique_installs": 741
+    },
+    {
+      "plugin": "cwc-makers@claude-plugins-official",
+      "unique_installs": 731
     },
     {
       "plugin": "appwrite@claude-plugins-official",
-      "unique_installs": 677
+      "unique_installs": 725
     },
     {
       "plugin": "helius@claude-plugins-official",
       "unique_installs": 674
     },
     {
-      "plugin": "stagehand@claude-plugins-official",
-      "unique_installs": 648
-    },
-    {
       "plugin": "pigment@claude-plugins-official",
-      "unique_installs": 626
+      "unique_installs": 652
     },
     {
       "plugin": "sap-fiori-mcp-server@claude-plugins-official",
-      "unique_installs": 621
-    },
-    {
-      "plugin": "grafana-mcp@claude-plugins-official",
-      "unique_installs": 616
-    },
-    {
-      "plugin": "unreal-engine-skills-for-claude-code@claude-plugins-official",
-      "unique_installs": 615
+      "unique_installs": 652
     },
     {
       "plugin": "lumen@claude-plugins-official",
-      "unique_installs": 612
+      "unique_installs": 651
     },
     {
-      "plugin": "sap-cds-mcp@claude-plugins-official",
-      "unique_installs": 571
+      "plugin": "stagehand@claude-plugins-official",
+      "unique_installs": 649
+    },
+    {
+      "plugin": "aws-agents-for-devsecops@claude-plugins-official",
+      "unique_installs": 637
+    },
+    {
+      "plugin": "knowledge-catalog@claude-plugins-official",
+      "unique_installs": 619
+    },
+    {
+      "plugin": "ui-theme-designer@claude-plugins-official",
+      "unique_installs": 614
     },
     {
       "plugin": "save-to-spotify@claude-plugins-official",
+      "unique_installs": 602
+    },
+    {
+      "plugin": "sap-cds-mcp@claude-plugins-official",
+      "unique_installs": 597
+    },
+    {
+      "plugin": "buildkite@claude-plugins-official",
+      "unique_installs": 590
+    },
+    {
+      "plugin": "langfuse-observability@claude-plugins-official",
+      "unique_installs": 575
+    },
+    {
+      "plugin": "rootly@claude-plugins-official",
+      "unique_installs": 572
+    },
+    {
+      "plugin": "datahub-skills@claude-plugins-official",
+      "unique_installs": 569
+    },
+    {
+      "plugin": "togetherai-skills@claude-plugins-official",
       "unique_installs": 568
+    },
+    {
+      "plugin": "vanta@claude-plugins-official",
+      "unique_installs": 564
     },
     {
       "plugin": "adlc@claude-plugins-official",
       "unique_installs": 554
     },
     {
-      "plugin": "knowledge-catalog@claude-plugins-official",
-      "unique_installs": 552
-    },
-    {
-      "plugin": "buildkite@claude-plugins-official",
-      "unique_installs": 545
-    },
-    {
-      "plugin": "datahub-skills@claude-plugins-official",
-      "unique_installs": 536
-    },
-    {
-      "plugin": "togetherai-skills@claude-plugins-official",
-      "unique_installs": 530
-    },
-    {
-      "plugin": "rootly@claude-plugins-official",
-      "unique_installs": 527
-    },
-    {
-      "plugin": "aws-agents-for-devsecops@claude-plugins-official",
-      "unique_installs": 526
-    },
-    {
-      "plugin": "vanta@claude-plugins-official",
-      "unique_installs": 525
-    },
-    {
-      "plugin": "langfuse-observability@claude-plugins-official",
-      "unique_installs": 503
+      "plugin": "bigquery-data-analytics@claude-plugins-official",
+      "unique_installs": 553
     },
     {
       "plugin": "teamcity-cli@claude-plugins-official",
-      "unique_installs": 502
-    },
-    {
-      "plugin": "bigquery-data-analytics@claude-plugins-official",
-      "unique_installs": 500
-    },
-    {
-      "plugin": "carta-cap-table@claude-plugins-official",
-      "unique_installs": 474
+      "unique_installs": 531
     },
     {
       "plugin": "cloud-sql-mysql@claude-plugins-official",
-      "unique_installs": 465
+      "unique_installs": 517
+    },
+    {
+      "plugin": "carta-cap-table@claude-plugins-official",
+      "unique_installs": 501
     },
     {
       "plugin": "circle-skills@claude-plugins-official",
-      "unique_installs": 463
+      "unique_installs": 495
     },
     {
       "plugin": "carta-investors@claude-plugins-official",
-      "unique_installs": 451
-    },
-    {
-      "plugin": "duende-skills@claude-plugins-official",
-      "unique_installs": 443
-    },
-    {
-      "plugin": "oracledb@claude-plugins-official",
-      "unique_installs": 409
+      "unique_installs": 484
     },
     {
       "plugin": "databricks@claude-plugins-official",
-      "unique_installs": 390
+      "unique_installs": 476
+    },
+    {
+      "plugin": "duende-skills@claude-plugins-official",
+      "unique_installs": 470
+    },
+    {
+      "plugin": "oracledb@claude-plugins-official",
+      "unique_installs": 460
+    },
+    {
+      "plugin": "langfuse@claude-plugins-official",
+      "unique_installs": 444
     },
     {
       "plugin": "carta-crm@claude-plugins-official",
-      "unique_installs": 389
+      "unique_installs": 411
+    },
+    {
+      "plugin": "firestore-native@claude-plugins-official",
+      "unique_installs": 409
+    },
+    {
+      "plugin": "cloud-sql-sqlserver@claude-plugins-official",
+      "unique_installs": 406
+    },
+    {
+      "plugin": "tavily@claude-plugins-official",
+      "unique_installs": 403
+    },
+    {
+      "plugin": "dominodatalab@claude-plugins-official",
+      "unique_installs": 402
     },
     {
       "plugin": "atlassian-forge-skills@claude-plugins-official",
       "unique_installs": 383
     },
     {
-      "plugin": "dominodatalab@claude-plugins-official",
-      "unique_installs": 377
-    },
-    {
-      "plugin": "langfuse@claude-plugins-official",
-      "unique_installs": 375
-    },
-    {
-      "plugin": "firestore-native@claude-plugins-official",
-      "unique_installs": 365
-    },
-    {
-      "plugin": "cloud-sql-sqlserver@claude-plugins-official",
-      "unique_installs": 364
-    },
-    {
-      "plugin": "looker@claude-plugins-official",
-      "unique_installs": 329
+      "plugin": "ui5-modernization@claude-plugins-official",
+      "unique_installs": 381
     },
     {
       "plugin": "aws-transform@claude-plugins-official",
-      "unique_installs": 320
-    },
-    {
-      "plugin": "tavily@claude-plugins-official",
-      "unique_installs": 319
-    },
-    {
-      "plugin": "ui5-modernization@claude-plugins-official",
-      "unique_installs": 317
-    },
-    {
-      "plugin": "grafana-assistant@claude-plugins-official",
-      "unique_installs": 273
+      "unique_installs": 378
     },
     {
       "plugin": "build-with-wordpress@claude-plugins-official",
-      "unique_installs": 269
+      "unique_installs": 373
     },
     {
-      "plugin": "jfrog@claude-plugins-official",
-      "unique_installs": 260
-    },
-    {
-      "plugin": "fullstory@claude-plugins-official",
-      "unique_installs": 258
+      "plugin": "looker@claude-plugins-official",
+      "unique_installs": 365
     },
     {
       "plugin": "hostinger@claude-plugins-official",
-      "unique_installs": 255
+      "unique_installs": 345
     },
     {
-      "plugin": "learn-with-coursera@claude-plugins-official",
-      "unique_installs": 250
-    },
-    {
-      "plugin": "grafana-cloud-mcp@claude-plugins-official",
-      "unique_installs": 250
+      "plugin": "grafana-assistant@claude-plugins-official",
+      "unique_installs": 344
     },
     {
       "plugin": "render@claude-plugins-official",
-      "unique_installs": 249
+      "unique_installs": 331
+    },
+    {
+      "plugin": "grafana-cloud-mcp@claude-plugins-official",
+      "unique_installs": 317
+    },
+    {
+      "plugin": "preset-cli-skills@claude-plugins-official",
+      "unique_installs": 301
+    },
+    {
+      "plugin": "learn-with-coursera@claude-plugins-official",
+      "unique_installs": 292
     },
     {
       "plugin": "lusha@claude-plugins-official",
-      "unique_installs": 246
+      "unique_installs": 275
+    },
+    {
+      "plugin": "jfrog@claude-plugins-official",
+      "unique_installs": 273
+    },
+    {
+      "plugin": "fullstory@claude-plugins-official",
+      "unique_installs": 266
+    },
+    {
+      "plugin": "valtown@claude-plugins-official",
+      "unique_installs": 255
+    },
+    {
+      "plugin": "dataproc@claude-plugins-official",
+      "unique_installs": 247
+    },
+    {
+      "plugin": "monday-crm@claude-plugins-official",
+      "unique_installs": 247
+    },
+    {
+      "plugin": "confidence@claude-plugins-official",
+      "unique_installs": 245
+    },
+    {
+      "plugin": "alloydb-omni@claude-plugins-official",
+      "unique_installs": 244
+    },
+    {
+      "plugin": "airwallex-agentos@claude-plugins-official",
+      "unique_installs": 243
+    },
+    {
+      "plugin": "spanner@claude-plugins-official",
+      "unique_installs": 241
     },
     {
       "plugin": "versori-skills@claude-plugins-official",
       "unique_installs": 240
     },
     {
-      "plugin": "valtown@claude-plugins-official",
-      "unique_installs": 231
-    },
-    {
-      "plugin": "preset-cli-skills@claude-plugins-official",
-      "unique_installs": 229
-    },
-    {
-      "plugin": "dataproc@claude-plugins-official",
-      "unique_installs": 223
-    },
-    {
-      "plugin": "spanner@claude-plugins-official",
+      "plugin": "dropbox@claude-plugins-official",
       "unique_installs": 220
     },
     {
-      "plugin": "alloydb-omni@claude-plugins-official",
+      "plugin": "modern-web-guidance@claude-plugins-official",
       "unique_installs": 219
     },
     {
-      "plugin": "confidence@claude-plugins-official",
-      "unique_installs": 219
+      "plugin": "rill@claude-plugins-official",
+      "unique_installs": 210
     },
     {
       "plugin": "convex-backend@claude-plugins-official",
       "unique_installs": 208
     },
     {
-      "plugin": "monday-crm@claude-plugins-official",
-      "unique_installs": 205
-    },
-    {
-      "plugin": "airwallex-agentos@claude-plugins-official",
-      "unique_installs": 202
-    },
-    {
-      "plugin": "rill@claude-plugins-official",
-      "unique_installs": 187
-    },
-    {
       "plugin": "oracle-ai-data-platform-workbench-engineer-agent@claude-plugins-official",
-      "unique_installs": 181
-    },
-    {
-      "plugin": "dropbox@claude-plugins-official",
-      "unique_installs": 180
-    },
-    {
-      "plugin": "boltz@claude-plugins-official",
-      "unique_installs": 175
+      "unique_installs": 207
     },
     {
       "plugin": "logrocket@claude-plugins-official",
-      "unique_installs": 171
+      "unique_installs": 199
+    },
+    {
+      "plugin": "boltz@claude-plugins-official",
+      "unique_installs": 197
+    },
+    {
+      "plugin": "receipts@claude-plugins-official",
+      "unique_installs": 195
     },
     {
       "plugin": "zyte-web-data@claude-plugins-official",
-      "unique_installs": 153
+      "unique_installs": 182
     },
     {
       "plugin": "honeycomb@claude-plugins-official",
-      "unique_installs": 125
+      "unique_installs": 162
     },
     {
       "plugin": "sap-hana-cli@claude-plugins-official",
-      "unique_installs": 116
+      "unique_installs": 140
+    },
+    {
+      "plugin": "oracle-ai-data-platform-workbench-databricks-migrator@claude-plugins-official",
+      "unique_installs": 131
+    },
+    {
+      "plugin": "pixeltable@claude-plugins-official",
+      "unique_installs": 119
     },
     {
       "plugin": "figma-mcp@claude-plugins-official",
       "unique_installs": 115
     },
     {
-      "plugin": "receipts@claude-plugins-official",
-      "unique_installs": 113
+      "plugin": "idmp-plugin@claude-plugins-official",
+      "unique_installs": 115
     },
     {
-      "plugin": "oracle-ai-data-platform-workbench-databricks-migrator@claude-plugins-official",
-      "unique_installs": 112
+      "plugin": "mergify@claude-plugins-official",
+      "unique_installs": 108
     },
     {
-      "plugin": "browser-use@claude-plugins-official",
+      "plugin": "deepeval@claude-plugins-official",
       "unique_installs": 105
     },
     {
+      "plugin": "vsql-extension-builder@claude-plugins-official",
+      "unique_installs": 100
+    },
+    {
       "plugin": "airwallex@claude-plugins-official",
-      "unique_installs": 97
+      "unique_installs": 98
     },
     {
-      "plugin": "pixeltable@claude-plugins-official",
-      "unique_installs": 96
-    },
-    {
-      "plugin": "idmp-plugin@claude-plugins-official",
-      "unique_installs": 95
+      "plugin": "gitkraken@claude-plugins-official",
+      "unique_installs": 98
     },
     {
       "plugin": "speakai@claude-plugins-official",
       "unique_installs": 93
     },
     {
-      "plugin": "mergify@claude-plugins-official",
-      "unique_installs": 83
+      "plugin": "amd-skills@claude-plugins-official",
+      "unique_installs": 92
     },
     {
-      "plugin": "vsql-extension-builder@claude-plugins-official",
-      "unique_installs": 77
+      "plugin": "carbone-skill@claude-plugins-official",
+      "unique_installs": 79
     },
     {
       "plugin": "artifact@claude-plugins-official",
@@ -1154,60 +1182,68 @@
       "unique_installs": 76
     },
     {
-      "plugin": "ui-theme-designer@claude-plugins-official",
-      "unique_installs": 70
+      "plugin": "newrelic@claude-plugins-official",
+      "unique_installs": 64
     },
     {
       "plugin": "autofix-bot@claude-plugins-official",
       "unique_installs": 61
     },
     {
-      "plugin": "deepeval@claude-plugins-official",
-      "unique_installs": 47
+      "plugin": "mlflow@claude-plugins-official",
+      "unique_installs": 60
     },
     {
-      "plugin": "amd-skills@claude-plugins-official",
-      "unique_installs": 44
+      "plugin": "azure-sql-developer@claude-plugins-official",
+      "unique_installs": 54
+    },
+    {
+      "plugin": "stackhawk-hawkscan@claude-plugins-official",
+      "unique_installs": 43
+    },
+    {
+      "plugin": "crowdsec@claude-plugins-official",
+      "unique_installs": 42
     },
     {
       "plugin": "aiven@claude-plugins-official",
       "unique_installs": 41
     },
     {
+      "plugin": "qodo@claude-plugins-official",
+      "unique_installs": 35
+    },
+    {
+      "plugin": "altimate-code@claude-plugins-official",
+      "unique_installs": 33
+    },
+    {
       "plugin": "example-plugin@claude-plugins-official",
       "unique_installs": 32
     },
     {
-      "plugin": "modern-web-guidance@claude-plugins-official",
-      "unique_installs": 22
+      "plugin": "growthbook@claude-plugins-official",
+      "unique_installs": 32
     },
     {
-      "plugin": "newrelic@claude-plugins-official",
-      "unique_installs": 14
+      "plugin": "catalyst-by-zoho@claude-plugins-official",
+      "unique_installs": 25
     },
     {
-      "plugin": "mlflow@claude-plugins-official",
+      "plugin": "stackhawk-api@claude-plugins-official",
+      "unique_installs": 25
+    },
+    {
+      "plugin": "ckeditor@claude-plugins-official",
+      "unique_installs": 21
+    },
+    {
+      "plugin": "paypal@claude-plugins-official",
       "unique_installs": 11
     },
     {
-      "plugin": "gitkraken@claude-plugins-official",
-      "unique_installs": 9
-    },
-    {
-      "plugin": "carbone-skill@claude-plugins-official",
-      "unique_installs": 9
-    },
-    {
-      "plugin": "azure-sql-developer@claude-plugins-official",
+      "plugin": "shippo@claude-plugins-official",
       "unique_installs": 6
-    },
-    {
-      "plugin": "stackhawk-hawkscan@claude-plugins-official",
-      "unique_installs": 5
-    },
-    {
-      "plugin": "crowdsec@claude-plugins-official",
-      "unique_installs": 5
     },
     {
       "plugin": "dart-lsp@claude-plugins-official",
@@ -1218,16 +1254,24 @@
       "unique_installs": 4
     },
     {
-      "plugin": "qodo@claude-plugins-official",
-      "unique_installs": 3
-    },
-    {
       "plugin": "document-skills@claude-plugins-official",
       "unique_installs": 3
     },
     {
-      "plugin": "stackhawk-api@claude-plugins-official",
-      "unique_installs": 3
+      "plugin": "ui-ux-pro-max@claude-plugins-official",
+      "unique_installs": 2
+    },
+    {
+      "plugin": "grid-sharing@claude-plugins-official",
+      "unique_installs": 2
+    },
+    {
+      "plugin": "voltagent-core-dev@claude-plugins-official",
+      "unique_installs": 2
+    },
+    {
+      "plugin": "andrej-karpathy-skills@claude-plugins-official",
+      "unique_installs": 2
     },
     {
       "plugin": "agent-browser@claude-plugins-official",
@@ -1242,67 +1286,211 @@
       "unique_installs": 2
     },
     {
-      "plugin": "growthbook@claude-plugins-official",
-      "unique_installs": 2
-    },
-    {
-      "plugin": "ui-ux-pro-max@claude-plugins-official",
-      "unique_installs": 2
-    },
-    {
       "plugin": "caveman@claude-plugins-official",
       "unique_installs": 2
     },
     {
-      "plugin": "voltagent-core-dev@claude-plugins-official",
-      "unique_installs": 2
-    },
-    {
-      "plugin": "andrej-karpathy-skills@claude-plugins-official",
-      "unique_installs": 2
-    },
-    {
-      "plugin": "ckeditor@claude-plugins-official",
-      "unique_installs": 2
-    },
-    {
-      "plugin": "ifs-inventory-parts-handling@claude-plugins-official",
+      "plugin": "cuesta-veterinaria@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "my-playground@claude-plugins-official",
+      "plugin": "dev-sandbox@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "long-review@claude-plugins-official",
+      "plugin": "aspnet-security@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "ce-user-guide@claude-plugins-official",
+      "plugin": "backend@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "context@claude-plugins-official",
+      "plugin": "bmad-workflows@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "feature-dev-linear@claude-plugins-official",
+      "plugin": "lsf-monitor@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "explanatory-output-style-v2@claude-plugins-official",
+      "plugin": "pdf2md@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "my-time-plugin@claude-plugins-official",
+      "plugin": "gitlab-mr-review@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "arkts-lsp@claude-plugins-official",
+      "plugin": "financial-data@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "visu@claude-plugins-official",
+      "plugin": "grid-skill@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "youtrack@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "creative-music-output-style@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "cursor-team-kit@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "design-principles@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "plugin-installer@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "apex-lsp@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "n8n-skills@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "odoo-dev@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "freshservice@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "hashmind-synapse@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "ignition-8-3@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "frontend@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "slack-channel-dm@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "dev-cycle@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "dune@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "cocounsel-legal@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "analytics-metrics@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "any-chat-completions@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "autonomous-loop@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "it-triage-system@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "jina@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "figma-landing-builder@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "gold-collector@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "rfx-analyzer@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "grid-design@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "vercel-best-practices@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "tsgo-lsp@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "voltagent-qa-sec@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "elixir-lsp@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "project-collaboration-system@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "adversary-workflow@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "ai-social-credit@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "brain@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "metals-lsp@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "qml-lsp@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "hardworking@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "servicenow-demo-dev@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "frontend-skills@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "vedic-astro@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "terraform-ls@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "snowflake@claude-plugins-official",
       "unique_installs": 1
     },
     {
@@ -1310,35 +1498,15 @@
       "unique_installs": 1
     },
     {
-      "plugin": "lean-canvas@claude-plugins-official",
+      "plugin": "dj-content-creator@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "gdscript-lsp@claude-plugins-official",
+      "plugin": "explanatory-output-style-v2@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "git-release@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "my-skills@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "stack-agile@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "lean-lsp@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "gsd@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "sports-data@claude-plugins-official",
+      "plugin": "feature-dev-linear@claude-plugins-official",
       "unique_installs": 1
     },
     {
@@ -1350,19 +1518,11 @@
       "unique_installs": 1
     },
     {
-      "plugin": "team-conventions@claude-plugins-official",
+      "plugin": "arkts-lsp@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "hd-daily-goals@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "drbinary-chat-plugin@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "dj-content-creator@claude-plugins-official",
+      "plugin": "ce-user-guide@claude-plugins-official",
       "unique_installs": 1
     },
     {
@@ -1370,7 +1530,27 @@
       "unique_installs": 1
     },
     {
+      "plugin": "lean-lsp@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "long-review@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
       "plugin": "memory-agent@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "my-playground@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "my-time-plugin@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "gsd@claude-plugins-official",
       "unique_installs": 1
     },
     {
@@ -1378,255 +1558,95 @@
       "unique_installs": 1
     },
     {
-      "plugin": "payload@claude-plugins-official",
+      "plugin": "ifs-inventory-parts-handling@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "everything-claude-code@claude-plugins-official",
+      "plugin": "context@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "reaktiiv-skills@claude-plugins-official",
+      "plugin": "gdscript-lsp@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "rs-commands@claude-plugins-official",
+      "plugin": "git-release@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "flows-iam@claude-plugins-official",
+      "plugin": "sports-data@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "coach@claude-plugins-official",
+      "plugin": "visu@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "claude-rules-generator@claude-plugins-official",
+      "plugin": "d2f@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "cli-anything@claude-plugins-official",
+      "plugin": "dev-workflow@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "fsharp-lsp@claude-plugins-official",
+      "plugin": "ppt-loop@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "genxtechreviews@claude-plugins-official",
+      "plugin": "claude-status@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "nlp-article-writer@claude-plugins-official",
+      "plugin": "agent-teams@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "openclaw-test-heap-leaks@claude-plugins-official",
+      "plugin": "bi-data-modeling@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "it-agent@claude-plugins-official",
+      "plugin": "bullet-onboarding@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "aws-diagram@claude-plugins-official",
+      "plugin": "bun-typescript@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "beast-plan@claude-plugins-official",
+      "plugin": "churn-report@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "blue@claude-plugins-official",
+      "plugin": "jdtls-java21-lsp@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "agent-flow@claude-plugins-official",
+      "plugin": "omnisharp-lsp@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "ai@claude-plugins-official",
+      "plugin": "quality-review-plugin@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "ai-pm-copilot@claude-plugins-official",
+      "plugin": "folio-ai-dev@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "anthropics-paper-skills@claude-plugins-official",
+      "plugin": "codex-skills@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "voltagent-biz@claude-plugins-official",
+      "plugin": "turnkey@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "vertical-builder@claude-plugins-official",
+      "plugin": "voltagent-research@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "why-how-what-output-style@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "weekly-work-tracker@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "comm-text@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "corp-k8s@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "voltagent-meta@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "study-quiz@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "toprank@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "prompts-chat@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "prompt-optimizer@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "sprint-planner@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "pwned-security-test@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "dune@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "dokploy@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "dev-cycle@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "doc-bootstrap@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "edgar-ai-trends@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "rfx-analyzer@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "figma-landing-builder@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "cocounsel-legal@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "claude-seo@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "frontend-lab@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "gemini-consult@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "it-triage-system@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "microsoft-learn@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "jira@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "jina@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "monday@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "bsl-language-server@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "any-chat-completions@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "analytics-metrics@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "backend-specialist@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "gold-collector@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "grid-design@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "autonomous-loop@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "voltagent-infra@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "voltagent-qa-sec@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "vercel-best-practices@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "voltagent-data-ai@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "voltagent-domains@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "tsgo-lsp@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "pit1@claude-plugins-official",
+      "plugin": "workspace-guardian@claude-plugins-official",
       "unique_installs": 1
     },
     {
@@ -1634,19 +1654,7 @@
       "unique_installs": 1
     },
     {
-      "plugin": "ringcentral-payload-skills@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "remotion@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "ruff-lsp@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "jw-warehouse@claude-plugins-official",
+      "plugin": "autoresearch@claude-plugins-official",
       "unique_installs": 1
     },
     {
@@ -1658,7 +1666,411 @@
       "unique_installs": 1
     },
     {
+      "plugin": "ruff-lsp@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
       "plugin": "hyprland@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "slack-channel@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "viridium@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "derk-sessies@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "development@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "latex2cn@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "model-router@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "ralph-v2@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "plan-guardian@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "formula100k@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "universal-dev@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "vibes@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "pyrefly-lsp@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "agentmemory@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "car-code-reviewer@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "magi@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "marketing-skills@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "myinvest@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "ocpm@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "forge-security@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "frappe-print-format@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "user-journey-analysis@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "step-count-summary@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "voltagent-lang@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "cost-analysis@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "docx@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "provider-bridge@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "case-study-report@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "cds-lsp@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "krafton-slides@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "strongmind-compliance-checker@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "voltagent-dev-exp@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "discord-voice@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "prd-generator@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "amber-electric@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "ccpm@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "netsuite-aiconnector-service-skill@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "obsidian@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "review-submission@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "sap-bdc@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "ida-reverse-engineer@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "git-ship@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "gemini-query@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "ty-lsp@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "watch@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "example-skills@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "prototype@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "claude-memory@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "basedpyright-lsp@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "claude-api@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "openspec@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "personal@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "python-pro@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "context-handoff@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "hd-daily-report@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "home-assistant-skills@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "spec-writer@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "statistical-data@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "vuecason-engineering@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "corp-k8s@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "prompts-chat@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "coach@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "ai-pm-copilot@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "aws-diagram@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "beast-plan@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "it-agent@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "openclaw-test-heap-leaks@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "payload@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "reaktiiv-skills@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "sprint-planner@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "voltagent-meta@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "drbinary-chat-plugin@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "lean-canvas@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "my-skills@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "hd-daily-goals@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "team-conventions@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "stack-agile@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "doc-bootstrap@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "dokploy@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "edgar-ai-trends@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "claude-seo@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "backend-specialist@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "bsl-language-server@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "jira@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "microsoft-learn@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "monday@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "frontend-lab@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "gemini-consult@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "voltagent-data-ai@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "voltagent-domains@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "voltagent-infra@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "amat-colors@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "awesome-claude-skills@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "betting-odds@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "mako-tools@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "pdf2latex@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "perlnavigator-lsp@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "codeceptjs-e2e-tests@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "typescript-native-lsp@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "ciandt-brand@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "jw-warehouse@claude-plugins-official",
       "unique_installs": 1
     },
     {
@@ -1674,27 +2086,23 @@
       "unique_installs": 1
     },
     {
-      "plugin": "ciandt-brand@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "autoresearch@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
       "plugin": "context-layer-test@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "viridium@claude-plugins-official",
+      "plugin": "remotion@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "ringcentral-payload-skills@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
+      "plugin": "pit1@claude-plugins-official",
       "unique_installs": 1
     },
     {
       "plugin": "vectorhub-memory@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "slack-channel@claude-plugins-official",
       "unique_installs": 1
     },
     {
@@ -1706,19 +2114,19 @@
       "unique_installs": 1
     },
     {
+      "plugin": "dashboard-builder-meli@claude-plugins-official",
+      "unique_installs": 1
+    },
+    {
       "plugin": "ewo-discovery-skill@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "sayco-design-system@claude-plugins-official",
+      "plugin": "annotation-quiz-builder@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "ralphael-plugin@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "forge-security@claude-plugins-official",
+      "plugin": "jamf-api@claude-plugins-official",
       "unique_installs": 1
     },
     {
@@ -1730,35 +2138,15 @@
       "unique_installs": 1
     },
     {
-      "plugin": "magi@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "marketing-skills@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "ocpm@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
       "plugin": "obsidian-tasks@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "myinvest@claude-plugins-official",
+      "plugin": "ralphael-plugin@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "jamf-api@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "frappe-print-format@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "annotation-quiz-builder@claude-plugins-official",
+      "plugin": "sayco-design-system@claude-plugins-official",
       "unique_installs": 1
     },
     {
@@ -1766,31 +2154,7 @@
       "unique_installs": 1
     },
     {
-      "plugin": "agentmemory@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "car-code-reviewer@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "youtrack-skill@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "user-journey-analysis@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "voltagent-lang@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
       "plugin": "continual-learning@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "step-count-summary@claude-plugins-official",
       "unique_installs": 1
     },
     {
@@ -1798,395 +2162,91 @@
       "unique_installs": 1
     },
     {
-      "plugin": "pyrefly-lsp@claude-plugins-official",
+      "plugin": "youtrack-skill@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "perlnavigator-lsp@claude-plugins-official",
+      "plugin": "everything-claude-code@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "pdf2latex@claude-plugins-official",
+      "plugin": "prompt-optimizer@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "dev-workflow@claude-plugins-official",
+      "plugin": "pwned-security-test@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "folio-ai-dev@claude-plugins-official",
+      "plugin": "claude-rules-generator@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "claude-status@claude-plugins-official",
+      "plugin": "cli-anything@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "mako-tools@claude-plugins-official",
+      "plugin": "agent-flow@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "jdtls-java21-lsp@claude-plugins-official",
+      "plugin": "ai@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "omnisharp-lsp@claude-plugins-official",
+      "plugin": "anthropics-paper-skills@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "altimate-code@claude-plugins-official",
+      "plugin": "blue@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "awesome-claude-skills@claude-plugins-official",
+      "plugin": "nlp-article-writer@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "bullet-onboarding@claude-plugins-official",
+      "plugin": "rs-commands@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "bun-typescript@claude-plugins-official",
+      "plugin": "flows-iam@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "amat-colors@claude-plugins-official",
+      "plugin": "fsharp-lsp@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "codeceptjs-e2e-tests@claude-plugins-official",
+      "plugin": "genxtechreviews@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "churn-report@claude-plugins-official",
+      "plugin": "comm-text@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "betting-odds@claude-plugins-official",
+      "plugin": "toprank@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "bi-data-modeling@claude-plugins-official",
+      "plugin": "study-quiz@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "agent-teams@claude-plugins-official",
+      "plugin": "vertical-builder@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "voltagent-research@claude-plugins-official",
+      "plugin": "voltagent-biz@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "typescript-native-lsp@claude-plugins-official",
+      "plugin": "weekly-work-tracker@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "codex-skills@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "d2f@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "workspace-guardian@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "turnkey@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "quality-review-plugin@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "ppt-loop@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "personal@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "example-skills@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "elixir-lsp@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "servicenow-demo-dev@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "claude-memory@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "frontend-skills@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "metals-lsp@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "openspec@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "adversary-workflow@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "basedpyright-lsp@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "brain@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "home-assistant-skills@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "hd-daily-report@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "hardworking@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "ai-social-credit@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "claude-api@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "vedic-astro@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "vuecason-engineering@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "context-handoff@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "snowflake@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "spec-writer@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "terraform-ls@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "qml-lsp@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "prototype@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "project-collaboration-system@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "statistical-data@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "python-pro@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "pdf2md@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "discord-voice@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "dev-sandbox@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "review-submission@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "sap-bdc@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "financial-data@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "gemini-query@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "git-ship@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "netsuite-aiconnector-service-skill@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "obsidian@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "ida-reverse-engineer@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "lsf-monitor@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "backend@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "aspnet-security@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "bmad-workflows@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "ccpm@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "gitlab-mr-review@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "amber-electric@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "watch@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "cuesta-veterinaria@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "youtrack@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "grid-skill@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "ty-lsp@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "prd-generator@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "docx@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "design-principles@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "freshservice@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "frontend@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "ignition-8-3@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "n8n-skills@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "krafton-slides@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "odoo-dev@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "cds-lsp@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "hashmind-synapse@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "case-study-report@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "apex-lsp@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "voltagent-dev-exp@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "cursor-team-kit@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "creative-music-output-style@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "cost-analysis@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "slack-channel-dm@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "strongmind-compliance-checker@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "provider-bridge@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "plugin-installer@claude-plugins-official",
+      "plugin": "why-how-what-output-style@claude-plugins-official",
       "unique_installs": 1
     },
     {
@@ -2194,43 +2254,7 @@
       "unique_installs": 1
     },
     {
-      "plugin": "plan-guardian@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "derk-sessies@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "development@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "ralph-v2@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "formula100k@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "model-router@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "latex2cn@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "grid-sharing@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "universal-dev@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
-      "plugin": "wrap-up@claude-plugins-official",
+      "plugin": "pr-review@claude-plugins-official",
       "unique_installs": 1
     },
     {
@@ -2238,15 +2262,11 @@
       "unique_installs": 1
     },
     {
-      "plugin": "vibes@claude-plugins-official",
-      "unique_installs": 1
-    },
-    {
       "plugin": "spring-boot-init@claude-plugins-official",
       "unique_installs": 1
     },
     {
-      "plugin": "pr-review@claude-plugins-official",
+      "plugin": "wrap-up@claude-plugins-official",
       "unique_installs": 1
     }
   ]

@@ -310,6 +310,20 @@
       "homepage": "https://github.com/atlassian/atlassian-mcp-server"
     },
     {
+      "name": "atlassian-twg-cli",
+      "description": "Teamwork Graph CLI is Atlassian's agent-first interface to your entire work context: Jira issues, Confluence pages, Bitbucket PRs, along with your connected third-party data sources. Purpose-built for coding agents like Claude Code (terminal or desktop), and powered by Atlassian's context graph. Try: \"draft a Jira issue from this PR and link it to the epic.\" Using Claude Code in the browser? Install the Atlassian Rovo MCP plugin instead. Run /twg-setup after install to connect Atlassian Teamwork Graph CLI to Claude Code.",
+      "author": {
+        "name": "Atlassian"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/atlassian-labs/twg-plugins.git",
+        "sha": "aa6b0b4aba2a083ba66ac11ac5fd5c03378a4265"
+      },
+      "homepage": "https://developer.atlassian.com/cloud/twg-cli/"
+    },
+    {
       "name": "atomic-agents",
       "description": "Comprehensive development workflow for building AI agents with the Atomic Agents framework. Includes specialized agents for schema design, architecture planning, code review, and tool development. Features guided workflows, progressive-disclosure skills, and best practice validation.",
       "category": "development",
@@ -2381,6 +2395,22 @@
       "homepage": "https://docs.nimbleway.com/integrations/agent-skills/plugin-installation"
     },
     {
+      "name": "noibu",
+      "description": "Built for ecommerce, the Noibu plugin bridges the gap between customer experience and revenue by connecting Claude directly to your store's session, error, and conversion data through Noibu — and to the marketing, support, and commerce platforms that put insight into motion. Go beyond analysis: surface what's costing you revenue, take action across your stack, build workflows to automate work end-to-end.",
+      "author": {
+        "name": "Noibu"
+      },
+      "category": "monitoring",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Noibu/ai-plugin.git",
+        "path": "src",
+        "ref": "main",
+        "sha": "bcf16c9762e54054902389d63a283837b0346c37"
+      },
+      "homepage": "https://help.noibu.com/articles/3918362002-overview-of-the-noibu-plugin-for-claude"
+    },
+    {
       "name": "notion",
       "description": "Notion workspace integration. Search pages, create and update documents, manage databases, and access your team's knowledge base directly from Claude Code for seamless documentation workflows.",
       "category": "productivity",
@@ -2619,7 +2649,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/PostHog/ai-plugin.git",
-        "sha": "257a7d595004236b90429b848cc6da21fe143167"
+        "sha": "13dd2e24ec7f9969ae23cfd6b6f7ef897c7559ba"
       },
       "homepage": "https://posthog.com/docs/model-context-protocol"
     },

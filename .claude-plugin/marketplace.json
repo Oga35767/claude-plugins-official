@@ -3152,9 +3152,9 @@
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/getsentry/cli.git",
-        "path": "plugins/sentry-cli",
+        "path": "packages/cli/plugins/sentry-cli",
         "ref": "main",
-        "sha": "ae9a84c5ac02ac3733b0946ca7538997d96ab80d"
+        "sha": "94a4ca5801784ee4fe55bcdf4a19258835fa5e8f"
       },
       "homepage": "https://sentry.io"
     },

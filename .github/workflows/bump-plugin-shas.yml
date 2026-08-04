@@ -57,13 +57,18 @@ jobs:
 
       # createCommitOnBranch-based bump so commits are signed by GitHub and
       # satisfy the org-level required_signatures ruleset on main.
-      - uses: anthropics/claude-plugins-community/.github/actions/bump-plugin-shas@426e469f322952061102b286b378c0c9733a0934
+      - uses: anthropics/claude-plugins-community/.github/actions/bump-plugin-shas@9247660a88cf3f49456a2f6464d66fe4ea4f4a77
         id: bump
         with:
           marketplace-path: .claude-plugin/marketplace.json
           max-bumps: ${{ inputs.max_bumps || '30' }}
           only: ${{ inputs.plugin }}
           pr-mode: per-entry
+          # Entries listed in .github/bump-tracking.json {"releases-only": [...]}
+          # bump to the latest published release tag's commit instead of HEAD
+          # (no release / not-ahead / lookup failure -> pin held; see the action
+          # README). All other entries HEAD-track exactly as before.
+          tracking-config: .github/bump-tracking.json
           claude-cli-version: latest
 
       # Per-entry fan-out: dispatch the three required checks against each bump

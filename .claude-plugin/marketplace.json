@@ -3371,6 +3371,20 @@
       "homepage": "https://docs.stackhawk.com/ai-security/"
     },
     {
+      "name": "streaming-skills-plugin",
+      "description": "Skills for streaming application developers, covering Kafka and Flink client libraries and Schema Registry",
+      "author": {
+        "name": "Confluent"
+      },
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/confluentinc/agent-skills.git",
+        "sha": "e311f93620480e47a168e88c5aadcf6373632f1d"
+      },
+      "homepage": "https://www.confluent.io"
+    },
+    {
       "name": "stripe",
       "description": "Stripe development plugin for Claude",
       "category": "development",

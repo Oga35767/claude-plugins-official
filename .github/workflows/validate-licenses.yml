@@ -21,12 +21,18 @@ jobs:
       - name: Check every plugin has an Apache 2.0 LICENSE file
         run: |
           set -euo pipefail
+          # Plugins that intentionally ship a non-Apache LICENSE. claude-security
+          # is deliberately proprietary (see #4427 — replacement rejected); it is
+          # exempt from the Apache 2.0 content check but must still ship a LICENSE.
+          exempt=("plugins/claude-security")
           missing=()
           wrong_content=()
           for plugin_dir in plugins/*/; do
             plugin="${plugin_dir%/}"
             if [[ ! -f "$plugin/LICENSE" ]]; then
               missing+=("$plugin")
+            elif [[ " ${exempt[*]} " == *" $plugin "* ]]; then
+              :  # intentionally non-Apache — LICENSE presence already verified
             elif ! grep -q "Apache License" "$plugin/LICENSE" || \
                  ! grep -q "Version 2.0" "$plugin/LICENSE"; then
               wrong_content+=("$plugin")
@@ -46,4 +52,4 @@ jobs:
             done
             exit 1
           fi
-          echo "All $(ls -d plugins/*/ | wc -l) plugins have an Apache 2.0 LICENSE file."
+          echo "All $(ls -d plugins/*/ | wc -l) plugins have a LICENSE file (Apache 2.0 except documented exemptions)."

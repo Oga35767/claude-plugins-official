@@ -12,7 +12,10 @@
     "convex-backend": "convex",
     "vals": "valtown",
     "wordpress.com": "build-with-wordpress",
-    "qodo-skills": "qodo"
+    "qodo-skills": "qodo",
+    "atlassian-forge-skills": "forge-skills",
+    "azure-skills": "azure",
+    "sonarqube-agent-plugins": "sonarqube"
   },
   "plugins": [
     {

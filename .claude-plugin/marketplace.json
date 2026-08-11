@@ -1637,6 +1637,20 @@
       "homepage": "https://github.com/anthropics/claude-plugins-public/tree/main/external_plugins/gitlab"
     },
     {
+      "name": "google-cloud-storage",
+      "description": "Official Google Cloud Storage (GCS) plugin. Manage buckets and objects, transfer data, and configure MCP, FUSE, IAM, security, lifecycle rules, signed URLs, Terraform, and the CLI.",
+      "author": {
+        "name": "Google LLC"
+      },
+      "category": "deployment",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/gemini-cli-extensions/google-cloud-storage.git",
+        "sha": "7a84ccaa96a64d1d2b346d646d29bb370ce01a29"
+      },
+      "homepage": "https://cloud.google.com/storage"
+    },
+    {
       "name": "gopls-lsp",
       "description": "Go language server for code intelligence and refactoring",
       "version": "1.0.0",

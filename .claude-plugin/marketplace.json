@@ -3488,6 +3488,20 @@
       "homepage": "https://github.com/supabase-community/supabase-plugin"
     },
     {
+      "name": "superdesign",
+      "description": "Design or redesign frontend UI and marketing graphics on the Superdesign infinite canvas. Reads your codebase for context, sets up a design system, and generates branchable design drafts you refine.",
+      "author": {
+        "name": "Superdesign dev, Inc."
+      },
+      "category": "design",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/superdesigndev/superdesign-skill.git",
+        "sha": "dc59c1b1b9661580831f0b6e0eff8e879967d282"
+      },
+      "homepage": "https://superdesign.dev"
+    },
+    {
       "name": "superpowers",
       "description": "Superpowers teaches Claude brainstorming, subagent driven development with built in code review, systematic debugging, and red/green TDD. Additionally, it teaches Claude how to author and test new skills.",
       "category": "development",

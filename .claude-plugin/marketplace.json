@@ -519,7 +519,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/microsoft/azure-skills.git",
-        "sha": "29e3b054a8319147bb969f1fffa7d051cf757d91"
+        "sha": "19290671e4f061b2a8c54fa2d42cdbc979000106"
       },
       "homepage": "https://github.com/microsoft/azure-skills"
     },
@@ -737,7 +737,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "02c086ea52e15a15d39dd5960b74a39dddaa101e"
+        "sha": "791f5afcad8e0868f05382c0d19524de54c9ceba"
       },
       "homepage": "https://carta.com"
     },
@@ -778,7 +778,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp.git",
-        "sha": "b58c613f4b05ade36bbf0d6ba44d5a525ec4d19a"
+        "sha": "f8572f04e4da404f333530854286acc5626efe94"
       },
       "homepage": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
@@ -1269,7 +1269,7 @@
         "url": "https://github.com/databricks/databricks-agent-skills.git",
         "path": "plugins/databricks/claude",
         "ref": "main",
-        "sha": "b43377c9224ab76e9b817de63dd8073468cfe7f9"
+        "sha": "e9a5432d2ce08058b4ff39bc5e934c498e250d98"
       },
       "homepage": "https://developers.databricks.com/"
     },
@@ -1353,7 +1353,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/confident-ai/deepeval.git",
-        "sha": "be9cac54fa4b5e8e9716d381a8c1812cec6bf7d5"
+        "sha": "d2de18c80a3e3df52e55e8af3b03943a4c5aaaff"
       },
       "homepage": "https://github.com/confident-ai/deepeval"
     },
@@ -2833,7 +2833,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/qdrant/skills.git",
-        "sha": "1578f1fe8be965d68047155abe21e891995ffccb"
+        "sha": "1047aa8d8ac9ada13caead755d62a4d485969869"
       },
       "homepage": "https://skills.qdrant.tech"
     },
@@ -3851,7 +3851,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "7a1f49419c1211d823fdc11bd8c9f17dc9500233"
+        "sha": "5593a1e2ab5ceafe56c3e76b64ed98bb5ed449bd"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },

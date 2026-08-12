@@ -1601,9 +1601,8 @@
       },
       "category": "monitoring",
       "source": {
-        "source": "github",
-        "repo": "fullstorydev/fullstory-skills",
-        "commit": "1ec5865e7ab1449f9a0859d164c4b6a8c53b6e2f",
+        "source": "url",
+        "url": "https://github.com/fullstorydev/fullstory-skills.git",
         "sha": "b20614e2d08d7a7c70775bb62b5af640f60b024b"
       },
       "homepage": "https://www.fullstory.com"
@@ -1884,9 +1883,8 @@
       },
       "category": "security",
       "source": {
-        "source": "github",
-        "repo": "jfrog/claude-plugin",
-        "commit": "259c8e718266c16e99b4f30ae9b1ed0f9f00d98d",
+        "source": "url",
+        "url": "https://github.com/jfrog/claude-plugin.git",
         "sha": "3ae8f77275ee03397d7020ddca8793f1cd8f7cfe"
       },
       "homepage": "https://jfrog.com"

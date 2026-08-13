@@ -41,8 +41,8 @@ const ENV_FILE = join(STATE_DIR, '.env')
 
 // Token is injected via ${user_config.DISCORD_BOT_TOKEN} from .mcp.json —
 // prompted at enable time, stored in keychain (macOS) or .credentials.json 0600
-// elsewhere. The .env file below is a legacy fallback for users configured
-// before H1 #3617646 — real env wins, so the injected value takes precedence.
+// elsewhere. The .env file below is a legacy fallback for previously configured
+// installs — real env wins, so the injected value takes precedence.
 try {
   // Defensive chmod for legacy .env files (no-op on Windows).
   chmodSync(ENV_FILE, 0o600)

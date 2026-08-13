@@ -19,6 +19,12 @@ on:
       # pull_request and the required check would sit "Expected" forever (a dispatch
       # check run isn't associated with the PR, so it can't satisfy the gate either).
       - '.github/policy/**'
+      # Same again for the bump-tracking ledger: a PR that only edits
+      # .github/bump-tracking.json (e.g. enrolling slugs in releases-only
+      # tracking) matches nothing above, so the required check sits
+      # "Expected" forever and even a dispatched validate run on the PR
+      # head can't satisfy the gate (it only counts pull_request suites).
+      - '.github/bump-tracking.json'
       # And once more for a plugin's own docs: a PR that only edits a README or
       # adds a screenshot matches nothing above, so the required check never
       # reports and the PR can't be merged. Spelled out per level because `*`

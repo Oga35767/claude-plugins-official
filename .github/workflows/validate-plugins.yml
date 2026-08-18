@@ -8,6 +8,20 @@ on:
       - '*/agents/**'
       - '*/skills/**'
       - '*/commands/**'
+      # Vendored plugins live TWO levels deep (plugins/<name>/, external_plugins/<name>/),
+      # and `*` doesn't cross a `/` — so the one-level patterns above never match them.
+      # Without these, a PR touching only e.g. plugins/<name>/.claude-plugin/plugin.json
+      # (a manifest version bump) fires nothing and the required `validate` check sits
+      # "Expected — Waiting for status to be reported" forever (PR #5416 hit this; same
+      # per-level spell-out as the README/assets entries below).
+      - 'plugins/*/.claude-plugin/**'
+      - 'plugins/*/agents/**'
+      - 'plugins/*/skills/**'
+      - 'plugins/*/commands/**'
+      - 'external_plugins/*/.claude-plugin/**'
+      - 'external_plugins/*/agents/**'
+      - 'external_plugins/*/skills/**'
+      - 'external_plugins/*/commands/**'
       # `validate` is a required status check, so a PR that touches ONLY workflow
       # files (e.g. an action-SHA re-pin) would otherwise never trigger validate
       # and sit "Expected — Waiting for status to be reported" forever (workflow_dispatch

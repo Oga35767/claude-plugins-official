@@ -386,7 +386,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-agents",
         "ref": "main",
-        "sha": "957cf377ea1dffccf1f8a54ded2be8666b6db41c"
+        "sha": "f986ec60a09a9fbcc31e950ecb6ec3d07d7fa9ec"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
@@ -721,7 +721,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "a26da2682642a04a5ddb0bffd89c596bb931230b"
+        "sha": "6a712b6d35742a7c20e4b46f2112d9f306661b9e"
       },
       "homepage": "https://carta.com"
     },
@@ -1267,7 +1267,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/datadog-labs/claude-code-plugin.git",
-        "sha": "c5c062abba0df33f6bfc2c0fd0f8d17857e3fa2c"
+        "sha": "cd4aedbcddf9473ef1d37c6d6d13e7c771df5242"
       },
       "homepage": "https://www.datadoghq.com/"
     },
@@ -1281,7 +1281,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/datahub-project/datahub-skills.git",
-        "sha": "c3c76a6d26d7ed61cb875219ffa82a50cd144a93"
+        "sha": "8d8f0e87efc48f529ce06dcccbb13e9df932b7c3"
       },
       "homepage": "https://datahub.com"
     },
@@ -1444,7 +1444,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/exa-labs/exa-mcp-server.git",
-        "sha": "c42a8a0bfe8f75eaf386e5bf278dd78eea56f9dc"
+        "sha": "66bacbe4afd35a7e1671be9ab55c2b6bf60aff34"
       },
       "homepage": "https://exa.ai/docs/reference/exa-mcp"
     },
@@ -1468,7 +1468,7 @@
         "url": "https://github.com/expo/skills.git",
         "path": "plugins/expo",
         "ref": "main",
-        "sha": "0814f2c6375f873b07f144c93e855198915d5426"
+        "sha": "d1c68a21ec6a9249cfd2e3885364bb47b243adb2"
       },
       "homepage": "https://github.com/expo/skills/blob/main/plugins/expo/README.md"
     },
@@ -1534,7 +1534,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/firecrawl/firecrawl-claude-plugin.git",
-        "sha": "2bd148f07c6d7240794e636ef89ced230cc3fd89"
+        "sha": "109f8bd4bdc37825106d5943a59dd72ece3cf094"
       },
       "homepage": "https://github.com/firecrawl/firecrawl-claude-plugin.git"
     },
@@ -1629,7 +1629,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gemini-cli-extensions/google-cloud-storage.git",
-        "sha": "fd5bfad63f86b4f314e9faafe1a0f317be0b3a55"
+        "sha": "7b4a44e40e65f9926f5e88fcee912432e5a791d4"
       },
       "homepage": "https://cloud.google.com/storage"
     },
@@ -2254,7 +2254,7 @@
         "url": "https://github.com/awslabs/startups.git",
         "path": "migrate/plugins/migration-to-aws",
         "ref": "main",
-        "sha": "49685cb23d9a026ab8bd2e84a802f3d1c1ca9fec"
+        "sha": "77406441732d3a2e4c887e51166868e7a5b875c0"
       },
       "homepage": "https://github.com/awslabs/startups"
     },
@@ -2378,7 +2378,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/netlify/context-and-tools.git",
-        "sha": "47848e2d6405291caeed0b23689878ec5253bb6f"
+        "sha": "5a62a5694417640a2bba11a0701c8995ecc40bcc"
       },
       "homepage": "https://github.com/netlify/context-and-tools"
     },
@@ -3615,7 +3615,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/togethercomputer/skills.git",
-        "sha": "fa0811d63d3769609911126bd52bb60cbe5c99f7"
+        "sha": "644d38225bbdef0318462fe222f6f9883c8addcd"
       },
       "homepage": "https://www.together.ai"
     },
@@ -3826,7 +3826,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/villagesql/villagesql-skills.git",
-        "sha": "288ed3324bbe733881ee8ba43deccdc7eb15075b"
+        "sha": "39490c14b7bfe116285bde686eb676cadf042642"
       },
       "homepage": "https://villagesql.com"
     },

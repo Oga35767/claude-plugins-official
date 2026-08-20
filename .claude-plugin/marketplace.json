@@ -46,7 +46,7 @@
         "url": "https://github.com/adobe/skills.git",
         "path": "plugins/creative-cloud/adobe-for-creativity",
         "ref": "main",
-        "sha": "cbaeec4138c6006fcdb499c94f545c2a4fa8f568"
+        "sha": "1307e2c03b9cd20c49872be8cbdfda7ee9aa8c7e"
       },
       "homepage": "https://github.com/adobe/skills/tree/main/plugins/creative-cloud/adobe-for-creativity"
     },
@@ -386,7 +386,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-agents",
         "ref": "main",
-        "sha": "f986ec60a09a9fbcc31e950ecb6ec3d07d7fa9ec"
+        "sha": "4b8f1820ef4efa55bf3941191beec031f2681ae4"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
@@ -528,7 +528,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/microsoft/azure-sql-database-container.git",
-        "sha": "eca81cf0974b714fdff30e8f665e746a03304758"
+        "sha": "72b6d5f45ea2a59c538e31a23941c7f5ee7ee9ba"
       },
       "homepage": "https://github.com/microsoft/azure-sql-database-container"
     },
@@ -555,7 +555,7 @@
         "url": "https://github.com/Bigdata-com/bigdata-plugins-marketplace.git",
         "path": "plugins/bigdata-com",
         "ref": "main",
-        "sha": "74ec89c998c78c04c3f4c2a3d1396c5e5935847a"
+        "sha": "2a52a001366227e205cfa7565d78e8198dc42fa8"
       },
       "homepage": "https://docs.bigdata.com"
     },
@@ -569,7 +569,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gemini-cli-extensions/bigquery-data-analytics.git",
-        "sha": "bc689647122cb5cc61995295e01d9eaee2dd3dbe"
+        "sha": "5450d45e46cf5b4abc89cf2817b63f5f01c586e4"
       },
       "homepage": "https://github.com/gemini-cli-extensions/bigquery-data-analytics"
     },
@@ -689,7 +689,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "a26da2682642a04a5ddb0bffd89c596bb931230b"
+        "sha": "7be35157286a6654783f82c701e46d06c40dcfb1"
       },
       "homepage": "https://carta.com"
     },
@@ -705,7 +705,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-crm",
         "ref": "main",
-        "sha": "a9f9af826bcc6319a50cd776d9410da64eb6ae90"
+        "sha": "3aa656ea870e1d8d7f73d0418c49043cab9df01a"
       },
       "homepage": "https://carta.com"
     },
@@ -721,7 +721,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "0f0e2f5a07d5f80a0272d6b3232d56d6757ce447"
+        "sha": "7be35157286a6654783f82c701e46d06c40dcfb1"
       },
       "homepage": "https://carta.com"
     },
@@ -1253,7 +1253,7 @@
         "url": "https://github.com/awslabs/agent-plugins.git",
         "path": "plugins/databases-on-aws",
         "ref": "main",
-        "sha": "bc78579b3d65d590de8a3f3abef4b23e72ff9e59"
+        "sha": "e244b4036b717959ee8d5114aa2364822cfb78b0"
       },
       "homepage": "https://github.com/awslabs/agent-plugins"
     },
@@ -1325,7 +1325,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/datarobot-oss/datarobot-agent-skills.git",
-        "sha": "a37519e9abc02a0c1418f22ea381e7c24e7e94f8"
+        "sha": "b901f1c491c1742ebf9282820cd2d5c00d7db2bf"
       },
       "homepage": "https://datarobot.com"
     },
@@ -1645,7 +1645,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gemini-cli-extensions/google-cloud-storage.git",
-        "sha": "7b4a44e40e65f9926f5e88fcee912432e5a791d4"
+        "sha": "b1f252b5d60d917b8083284d3a1523364f61c2f6"
       },
       "homepage": "https://cloud.google.com/storage"
     },
@@ -1776,7 +1776,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/hostinger/claude-plugin.git",
-        "sha": "70a43bc67ffde48062bf51db1e1bbaec26e65881"
+        "sha": "569880c60681a7068b3ca8ca84e2fe7ab6cfa7ff"
       },
       "homepage": "https://www.hostinger.com"
     },
@@ -1815,7 +1815,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/heygen-com/hyperframes.git",
-        "sha": "3e4b08cdc18642d468d53f34c2fb64ab437807ae"
+        "sha": "42b94fd5dbab4a278a9094a26836b8ceaf96b27f"
       },
       "homepage": "https://hyperframes.heygen.com"
     },
@@ -2175,7 +2175,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/mattpocock/skills.git",
-        "sha": "885e2ca4d842d139e9aef4e48d366c63cb1b8013"
+        "sha": "0ab1b63a410a03d3627979a109c8695de27af954"
       },
       "homepage": "https://github.com/mattpocock/skills"
     },
@@ -3149,7 +3149,7 @@
         "url": "https://github.com/SAP/open-ux-tools.git",
         "path": "packages/fiori-mcp-server",
         "ref": "main",
-        "sha": "aa5846b65167576f3cf17ed22c488a4377d7859d"
+        "sha": "232bb1b8a4a9eef73a871a08b8d67e0c92f26766"
       },
       "homepage": "https://github.com/SAP/open-ux-tools/tree/main/packages/fiori-mcp-server"
     },
@@ -3584,7 +3584,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/JetBrains/teamcity-cli.git",
-        "sha": "d8eff9844666f3deb75f172aa303aa5903e4b9d3"
+        "sha": "80d4c8b3ae705299be4ba5081713d04573324683"
       },
       "homepage": "https://www.jetbrains.com/teamcity/"
     },
@@ -3812,7 +3812,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/explorium-ai/vibeprospecting-plugin.git",
-        "sha": "804bab5e0500d7a0f8613a83a3cfe5b79e6a31c3"
+        "sha": "9b4067473305dbba80be0fa9a492be39b96f455e"
       },
       "homepage": "https://www.vibeprospecting.ai/product/claude-plugin"
     },

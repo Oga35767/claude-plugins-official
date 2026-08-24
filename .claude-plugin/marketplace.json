@@ -3718,6 +3718,18 @@
       "homepage": "https://github.com/UI5/plugins-coding-agents"
     },
     {
+      "name": "unity",
+      "displayName": "Unity",
+      "description": "Unity's official plugin for Claude Code, with curated skills for game development, monetization, and performance optimization.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Unity-Technologies/unity-agent-plugin.git",
+        "sha": "360523972ed0cb356d679acc612bd0f8d1ba3c2b"
+      },
+      "homepage": "https://unity.com"
+    },
+    {
       "name": "unreal-engine-skills-for-claude-code",
       "description": "Control Unreal Editor directly from Claude Code via MCP. Hundreds of tools exposed via Unreal's ToolsetRegistry across 30+ toolsets: actors, blueprints, materials, Niagara, Control Rigs, Sequencer, State Trees, widgets, Gameplay Ability System, automation testing, and more.",
       "author": {
